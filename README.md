@@ -11,7 +11,7 @@ PIDCoSmsPackage کتابخانه ای است برای ارسال اس ام اس.
 
 [![Nuget](https://img.shields.io/nuget/v/PIDCoSmsPackage)](https://www.nuget.org/packages/PIDCoSmsPackage/)
 ```
-PM> Install-Package PIDCoSmsPackage.Core
+PM> Install-Package PIDCoSmsPackage
 ```
 <div dir="rtl">
   <h2>نحوه کار 
